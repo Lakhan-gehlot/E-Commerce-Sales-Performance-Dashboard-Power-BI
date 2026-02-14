@@ -1,20 +1,21 @@
 📊 E-Commerce Sales Performance Dashboard (Power BI)
-
 📌 Business Problem
 
-E-commerce businesses often lack centralized visibility into revenue trends, customer behavior, and product profitability, leading to inefficient decision-making.
+E-commerce businesses often lack centralized visibility into revenue trends, product performance, and customer contribution. This leads to delayed decision-making and missed growth opportunities.
 
 🎯 Objective
 
 Develop an interactive Power BI dashboard to:
 
-Monitor revenue & profit trends
+Monitor Revenue & Profit Trends
 
-Analyze product category performance
+Track Monthly Growth Rate
 
-Track customer segmentation
+Analyze Product Category Performance
 
-Provide executive-level KPI reporting
+Identify Top 20% High-Value Customers
+
+Provide Executive-Level KPI Reporting
 
 📈 Key KPIs
 
