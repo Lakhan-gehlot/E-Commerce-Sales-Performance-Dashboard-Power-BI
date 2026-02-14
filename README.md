@@ -51,4 +51,7 @@ KPI Framework Design
 
 Excel Data Cleaning
 
-📷 Dashboard Preview
+## 📷 Dashboard Preview
+
+![Dashboard Preview](ECommerce%20Sales%20Dashboard.png)
+
